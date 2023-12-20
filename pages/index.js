@@ -1,23 +1,8 @@
 import { useState, useEffect } from "react";
 import { gsap } from "gsap";
-import Meta from "@/components/Seo/Meta";
-import Loader from "@/components/Loader/Loader";
-import Header from "@/components/Header/Header";
-import Menu from "@/components/Header/Menu/Menu";
-import ProgressIndicator from "@/components/ProgressIndicator/ProgressIndicator";
-import Cursor from "@/components/Cursor/Cursor";
 import ScrollTrigger from "gsap/dist/ScrollTrigger";
-import Hero from "@/components/Hero/Hero";
-import About1 from "@/components/About/About1";
-import Skills from "@/components/Skills/Skills";
-import About2 from "@/components/About/About2";
-import Projects from "@/components/Projects/Projects";
-import Work from "@/components/Work/Work";
-import Collaboration from "@/components/Collaboration/Collabaration";
-import Contact from "@/components/Contact/Contact";
-import Footer from "@/components/Footer/Footer";
-import Scripts from "@/components/Scripts/Scripts";
 import { displayFancyLogs } from "utils";
+import { About1, About2, Collaboration, Contact, Cursor, Footer, Header, Hero, Loader, Menu, Meta, ProgressIndicator, Projects, Scripts, Skills, Work } from "../components";
 
 export default function Home() {
   gsap.registerPlugin(ScrollTrigger);
