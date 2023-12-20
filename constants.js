@@ -177,7 +177,7 @@ export const WORK = [
   },
   {
     id: 3,
-    company: "Medium.com",
+    company: "Medium",
     title: "Writer",
     location: "Surabaya, indonesia",
     range: "September - ...",
