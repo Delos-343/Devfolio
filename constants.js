@@ -123,7 +123,7 @@ export const PROJECTS = [
       "Starbucks UI clone using Laravel Mix",
     gradient: ["#000066", "#6699FF"],
     url: "https://shubh73-inshorts.netlify.app/",
-    tech: ["laravel", "mysql"],
+    tech: ["laravel", "graphql"],
   },
   {
     name: "Devfolio",
