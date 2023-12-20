@@ -161,7 +161,7 @@ const Work = ({ clientWidth }) => {
               My Career
             </h1>
             <h2 className="text-[1.65rem] font-medium md:max-w-lg w-full mt-2 seq">
-              A quick recap of where I&apos;ve worked.{" "}
+              A quick recap of where I&apos;m currently working.{" "}
             </h2>
           </div>
         </div>
