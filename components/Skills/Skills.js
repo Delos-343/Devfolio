@@ -6,6 +6,7 @@ import { gsap, Linear } from "gsap";
 import { ScrollTrigger } from "gsap/dist/ScrollTrigger";
 
 const Skills = () => {
+  
   const targetSection = useRef(null);
 
   useEffect(() => {

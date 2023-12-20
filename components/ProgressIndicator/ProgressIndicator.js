@@ -1,6 +1,7 @@
 import { useRef, useEffect } from 'react';
 
 const ProgressIndicator = () => {
+    
     const progress = useRef(null);
 
     useEffect(() => {

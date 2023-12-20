@@ -3,6 +3,7 @@ import { gsap, Linear } from "gsap";
 import { ScrollTrigger } from "gsap/dist/ScrollTrigger";
 
 const Collaboration = ({ clientHeight }) => {
+  
   const quoteRef = useRef(null);
   const targetSection = useRef(null);
 

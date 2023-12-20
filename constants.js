@@ -97,52 +97,42 @@ export const SKILLS = {
 };
 
 export const PROJECTS = [
-  // {
-  //   name: "Shotime",
-  //   image: "",
-  //   blurImage: "",
-  //   description:
-  //     "Developed with complete E-commerce functionality and User Authentication 🛍️",
-  //   gradient: ["#FFCF1B", "#FF881B"],
-  //   url: "https://shubh73-shotime.vercel.app/",
-  //   tech: ["react", "tailwindcss", "redux", "mongodb", "stripe"],
-  // },
   {
-    name: "Airbnb",
+    name: "Spotify",
     image: "/projects/airbnb.webp",
     blurImage: "/projects/blur/airbnb-blur.webp",
-    description: "Airbnb UI clone using NextJS + Tailwind CSS 🛏️",
+    description: "Spotify UI clone using NextJS + Tailwind",
     gradient: ["#F14658", "#DC2537"],
     url: "https://shubh73-airbnb.vercel.app/",
-    tech: ["react", "nextjs", "tailwindcss", "mapbox"],
+    tech: ["typescript", "react", "nextjs", "tailwindcss", "firebase"],
   },
   {
-    name: "Medium",
+    name: "Hulu",
     image: "/projects/medium.webp",
     blurImage: "/projects/blur/medium-blur.webp",
-    description: "Medium UI clone using NextJS + Tailwind CSS ✍🏻",
+    description: "Hulu UI clone using NextJS + Tailwind",
     gradient: ["#FFA62E", "#EA4D2C"],
     url: "https://shubh73-medium.vercel.app/",
     tech: ["typescript", "react", "nextjs", "tailwindcss", "sanity.io"],
   },
   {
-    name: "Inshorts",
+    name: "Starbucks",
     image: "/projects/inshorts.webp",
     blurImage: "/projects/blur/airbnb-blur.webp",
     description:
-      "Conversational Voice Controlled React News Application using Alan AI 🎙",
+      "Starbucks UI clone using Laravel Mix",
     gradient: ["#000066", "#6699FF"],
     url: "https://shubh73-inshorts.netlify.app/",
-    tech: ["react", "chakra-ui", "alan"],
+    tech: ["laravel", "mysql"],
   },
   {
-    name: "Tesla",
+    name: "Devfolio",
     image: "/projects/tesla.webp",
     blurImage: "/projects/blur/tesla-blur.webp",
-    description: "A Tesla React Native App 🏎️",
+    description: "My latest portfolio using NextJS + Tailwind",
     gradient: ["#142D46", "#2E4964"],
     url: "https://github.com/shubh73/tesla",
-    tech: ["react"],
+    tech: ["react", "tailwindcss"],
   },
 ];
 

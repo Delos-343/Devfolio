@@ -3,6 +3,7 @@ import { gsap, Linear } from "gsap";
 import styles from "./Cursor.module.scss";
 
 const Cursor = ({ isDesktop }) => {
+  
   const cursor = useRef(null);
   const follower = useRef(null);
 

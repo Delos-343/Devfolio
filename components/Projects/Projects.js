@@ -5,6 +5,7 @@ import { ScrollTrigger } from "gsap/dist/ScrollTrigger";
 import ProjectTile from "./ProjectTile/ProjectTile";
 
 const Projects = ({ isDesktop, clientHeight }) => {
+  
   const targetSection = useRef(null);
   const sectionTitle = useRef(null);
 

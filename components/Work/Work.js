@@ -10,13 +10,17 @@ import styles from "./Work.module.scss";
 import { MENULINKS, WORK } from "../../constants";
 
 const Work = ({ clientWidth }) => {
+
   const [checked, setChecked] = useState(new Array(WORK.length).fill(false));
   const [isActive, setIsActive] = useState(false);
+  
   const [gunStyle, setGunStyle] = useState({});
   const [mockupStyle, setMockupStyle] = useState({});
   const [macTopStyle, setMacTopStyle] = useState({});
+
   const [activeIndex, setActiveIndex] = useState(0);
   const [reveal, setReveal] = useState(0);
+
   const targetSection = useRef(null);
   const inputRef = useRef(null);
   const macRef = useRef(null);

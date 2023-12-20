@@ -2,7 +2,9 @@ import styles from "./Button.module.scss";
 import PropTypes from "prop-types";
 
 const Button = ({ href, onClick, children, classes, type, ...otherProps }) => {
+
   let additionalClasses = "";
+  
   if (classes) {
     additionalClasses = classes;
   }

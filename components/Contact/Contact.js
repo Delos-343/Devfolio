@@ -8,6 +8,7 @@ import gsap from "gsap";
 import styles from "./Contact.module.scss";
 
 const filter = new Filter();
+
 filter.removeWords("hell", "god", "shit");
 
 const empty = () =>
@@ -41,6 +42,7 @@ const success = () =>
   });
 
 const Contact = () => {
+  
   const initialState = { name: "", email: "", message: "" };
   const [formData, setFormData] = useState(initialState);
   const [mailerResponse, setMailerResponse] = useState("not initiated");

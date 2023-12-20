@@ -2,6 +2,7 @@ import React, { useEffect } from "react";
 import { MENULINKS } from "../../../constants";
 
 const Menu = () => {
+  
   useEffect(() => {
     const anchorNodes = document.querySelectorAll('a[href^="#"]');
     anchorNodes.forEach((el) => {

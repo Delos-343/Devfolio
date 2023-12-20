@@ -9,6 +9,7 @@ import Profiles from "../Profiles/Profiles";
 import { MENULINKS } from "../../constants";
 
 const Footer = () => {
+  
   const [playbackRate, setPlaybackRate] = useState(0.75);
   const targetSection = useRef(null);
 

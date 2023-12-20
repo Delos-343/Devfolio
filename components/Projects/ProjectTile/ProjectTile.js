@@ -4,8 +4,10 @@ import VanillaTilt from "vanilla-tilt";
 import styles from "./ProjectTile.module.scss";
 
 const ProjectTile = ({ project, classes, isDesktop }) => {
+
   const { name, image, blurImage, description, gradient, url, tech } = project;
   const projectCard = useRef(null);
+  
   let additionalClasses = "";
   if (classes) {
     additionalClasses = classes;

@@ -2,6 +2,7 @@ import { useState, useEffect, useRef } from "react";
 import audio from "../../../public/sounds/First Steps.mp3";
 
 const SoundBar = () => {
+  
   const soundBarEl = useRef(null);
   const [isPlaying, setIsPlaying] = useState(false);
 
