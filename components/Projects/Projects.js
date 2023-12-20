@@ -98,7 +98,7 @@ const Projects = ({ isDesktop, clientHeight }) => {
             My Portfolio
           </h1>
           <h2 className="text-[1.65rem] font-medium md:max-w-lg max-w-sm mt-2 seq">
-            Lo&apos; and behold !{" "}
+            Lo&apos; and behold.{" "}
           </h2>
         </div>
         <div
