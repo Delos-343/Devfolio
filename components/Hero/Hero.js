@@ -8,6 +8,7 @@ import Profiles from "../Profiles/Profiles";
 // import lottie from "lottie-web";
 
 const Hero = () => {
+
   const [lottie, setLottie] = useState();
 
   const typedEl = useRef(null);
@@ -87,8 +88,8 @@ const Hero = () => {
           Hi, my name is
         </h5>
         <h1 className={`${styles.heroName} text-white text-6xl font-semibold`}>
-          <span className={`relative ${styles.emphasize} seq`}>Shubh</span>
-          <span className="seq"> Porwal</span>
+          <span className={`relative ${styles.emphasize} seq`}> M Fachry</span>
+          <span className="seq"> Dwi Handoko </span>
         </h1>
         <p>
           <span

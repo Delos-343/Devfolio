@@ -62,10 +62,13 @@ const Footer = () => {
               Developed with{" "}
               <button onClick={handleClick} className="link heart-btn">
                 <span role="img" aria-label="heart" className="animate-pulse">
-                  ❤️
+                  🤍
+                </span>
+                <span role="img" aria-label="heart" className="animate-pulse">
+                  🖤
                 </span>
               </button>{" "}
-              by <span className="text-white">Shubh Porwal</span>
+              by <span className="text-white">M Fachry Dwi Handoko</span>
             </p>
           </div>
         </div>

@@ -95,11 +95,10 @@ const Projects = ({ isDesktop, clientHeight }) => {
             PROJECTS
           </p>
           <h1 className="text-6xl mt-2 font-medium text-gradient w-fit seq">
-            My Projects
+            My Work
           </h1>
           <h2 className="text-[1.65rem] font-medium md:max-w-lg max-w-sm mt-2 seq">
-            Some things I&apos;ve built with love, expertise and a pinch of
-            magical ingredients.{" "}
+            Lo&apos; and behold !{" "}
           </h2>
         </div>
         <div

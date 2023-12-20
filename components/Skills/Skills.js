@@ -46,11 +46,11 @@ const Skills = () => {
               SKILLS
             </p>
             <h1 className="text-6xl mt-2 font-medium text-gradient w-fit seq">
-              My Skills
+              My Expertise
             </h1>
             <h2 className="text-[1.65rem] font-medium md:max-w-lg w-full mt-2 seq">
-              I like to take responsibility to craft aesthetic user experience
-              using modern frontend architecture.{" "}
+              Here to craft the perfect user experience
+              via modern frontend architectures.{" "}
             </h2>
           </div>
           <div className="mt-10">

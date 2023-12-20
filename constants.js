@@ -1,23 +1,28 @@
 export const METADATA = {
-  author: "Shubh Porwal",
-  title: "Portfolio | Shubh Porwal",
+  author: "f.dwi_han",
+  title: "Devfolio | M Fachry Dwi Han",
   description:
-    "Shubh Porwal is a Frontend Developer from Kuwait, interested in crafting beautiful and functional applications.",
-  siteUrl: "https://www.shubhporwal.me/",
-  twitterHandle: "@shubh731",
+    "Fachry is a Frontend Developer from Indonesia, interested in crafting cross-platform applications that are both beautiful and functional.",
+  siteUrl: "https://github.com/Delos-343/Devfolio",
+  twitterHandle: "",
   keywords: [
-    "Shubh Porwal",
+    "Mohammed",
+    "Fachry",
+    "Dwi Handoko",
     "Frontend Developer",
+    "Mobile Developer",
     "Web Developer",
     "React Native Developer",
     "Software Developer",
     "Software Engineer",
+    "Machine Learning",
+    "AI",
     "Portfolio",
     "Devfolio",
     "Folio",
   ].join(", "),
   image:
-    "https://res.cloudinary.com/dywdhyojt/image/upload/v1690572126/preview.png",
+    "/public/devfolio (Nest Hub).png",
   language: "English",
 };
 
@@ -45,64 +50,50 @@ export const MENULINKS = [
 ];
 
 export const TYPED_STRINGS = [
-  "A pragmatic Frontend Developer",
-  "I build things for the web",
-  "I create aesthetic and modern apps",
+  "Frontend + Mobile",
+  "UI / UX",
+  "Machine • Learning",
 ];
 
 export const SOCIAL_LINKS = [
   {
     name: "mail",
-    url: "mailto: shubhporwal73@gmail.com",
+    url: "mailto: mfachry.dwihandoko@gmail.com",
   },
   {
     name: "linkedin",
-    url: "https://www.linkedin.com/in/shubhporwal/",
+    url: "https://www.linkedin.com/in/fachry-dwi-han/",
   },
   {
     name: "github",
-    url: "https://github.com/shubh73",
+    url: "https://github.com/Delos-343",
   },
   {
     name: "instagram",
-    url: "https://www.instagram.com/shubhii73/",
-  },
-  {
-    name: "twitter",
-    url: "https://twitter.com/shubh731",
+    url: "https://www.instagram.com/f.dwi_han/",
   },
 ];
 
 export const SKILLS = {
   languagesAndTools: [
-    "html",
-    "css",
     "javascript",
     "typescript",
     "sass",
-    // "cpp",
-    // "java",
-    // "python",
+    "python",
     "nodejs",
-    "webpack",
-    "vite",
-    "firebase",
-    // "moralis",
-    // "stripe",
     "figma",
-    "tanstack-query",
+    "spline",
   ],
   librariesAndFrameworks: [
     "react",
-    "redux",
     "nextjs",
+    "xamarin",
+    "laravel",
     "tailwindcss",
-    "styledcomponents",
-    "antdesign",
     "chakra-ui",
   ],
-  databases: ["mysql", "mongodb"],
-  other: ["git", "sanity-io"],
+  databases: ["mysql", "graphql"],
+  other: ["git", "sanity-io", "vite", "firebase"],
 };
 
 export const PROJECTS = [

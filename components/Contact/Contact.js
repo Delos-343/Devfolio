@@ -247,7 +247,7 @@ const Contact = () => {
               CONTACT
             </p>
             <h1 className="text-6xl mt-2 font-medium text-gradient w-fit seq">
-              Contact
+              My Voice
             </h1>
           </div>
           <h2 className="text-[1.65rem] font-medium md:max-w-lg w-full mt-2 seq">
