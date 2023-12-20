@@ -56,6 +56,7 @@ const About1 = ({ clientHeight }) => {
           <span className="about-1 leading-tight">
             I code apps and networks, write stories{" "}
           </span>
+          <br />
           <span className="about-2 leading-tight">
           and articles, and shoot firearms.{" "}
           </span>
