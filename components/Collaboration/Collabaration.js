@@ -67,8 +67,8 @@ const Collaboration = ({ clientHeight }) => {
           ref={quoteRef}
           className="mt-6 md:mt-8 font-medium text-4xl md:text-5xl text-center"
         >
-          Interested in{" "}
-          <span className="text-strong font-semibold">Collaboration</span>?
+          Interested in a{" "}
+          <span className="text-strong font-semibold">Collab</span>?
         </h1>
 
         <p className="mt-6 md:mt-8 opacity-40 text-6xl sm:text-7xl font-semibold whitespace-nowrap ui-right transform-gpu">

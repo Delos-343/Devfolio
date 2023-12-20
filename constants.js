@@ -154,12 +154,12 @@ export const WORK = [
     location: "Jakarta, Indonesia",
     range: "August - ...",
     responsibilities: [
-      "Led the creation of various cross-platform software solutions.",
-      "Enhanced UX with gamification and personalized userflow to ensure an ever-improving online journey.",
+      "Leading the creation of various cross-platform software solutions.",
+      "Enhanced various company's UX with gamification and personalized userflow to ensure an ever-improving online journey.",
       "The final build boasts a DAU base of 13k and an extensive MAU count of 170k.",
     ],
-    url: "https://mydukaan.io/",
-    video: "/work/dukaan.mp4",
+    url: "https://www.linkedin.com/in/fachry-dwi-han/",
+    video: "/work/Rick Astley - Never Gonna Give You Up (Official Music Video).mp4",
   },
   {
     id: 2,
@@ -168,12 +168,12 @@ export const WORK = [
     location: "Taoyuan, Taiwan",
     range: "December - ...",
     responsibilities: [
-      "Built their flagship product Q-Rate, a voice-based applicant screening platform.",
-      "Developed pixel-perfect responsive web applications achieving daily traffic of 1000-2000 users.",
-      "Successfully rolled out an error-logging and bug reporting system that cut user-reported bugs by 30%.",
+      "Building their three-dimensional lane detection models with innovative perspective transformers.",
+      "Developed pixel-perfect object-detection wth new features.",
+      "Successfully rolled out an F-Score of 0.66 in five consecutive days.",
     ],
-    url: "https://www.aviate.jobs/",
-    video: "/work/aviate.mp4",
+    url: "https://www.linkedin.com/in/fachry-dwi-han/",
+    video: "/work/Josh Hutcherson - Whistle.mp4",
   },
   {
     id: 3,
@@ -182,12 +182,12 @@ export const WORK = [
     location: "Surabaya, indonesia",
     range: "September - ...",
     responsibilities: [
-      "Wrote a number of articles with an emphasis on IT fields.",
-      "Developed app integration with REST APIs, Google Maps, User Auth, Firebase and other libraries.",
-      "Implemented CRUD features for all the services and providers.",
+      "Writing a number of articles with an emphasis on Information Technology (IT).",
+      "Increased engagement with my audience to 4 new readers a day.",
+      "Utilized React, Firebase, and GraphQL to create a enhanced clone.",
     ],
-    url: "https://spacenos.com/",
-    video: "/work/spacenos.mp4",
+    url: "https://medium.com/@mfachry.handoko",
+    video: "/work/Saul Goodman - 3D.mp4",
   },
 ];
 
