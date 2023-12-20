@@ -132,7 +132,7 @@ export const PROJECTS = [
     description: "My latest portfolio using NextJS + Tailwind",
     gradient: ["#142D46", "#2E4964"],
     url: "https://github.com/shubh73/tesla",
-    tech: ["react", "tailwindcss"],
+    tech: ["react", "nextjs", "tailwindcss"],
   },
 ];
 
