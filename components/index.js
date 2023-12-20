@@ -1,0 +1,16 @@
+export { default as About1 } from './About/About1';
+export { default as About2 } from './About/About2';
+export { default as Button } from './Button/Button';
+export { default as Collaboration } from './Collaboration/Collabaration';
+export { default as Contact } from './Contact/Contact';
+export { default as Cursor } from './Cursor/Cursor';
+export { default as Footer } from './Footer/Footer';
+export { default as Header } from './Header/Header';
+export { default as Hero } from './Hero/Hero';
+export { default as Loader } from './Loader/Loader';
+export { default as ProgressIndicator } from './ProgressIndicator/ProgressIndicator';
+export { default as Projects } from './Projects/Projects';
+export { default as Scripts } from './Scripts/Scripts';
+export { default as Meta } from './Seo/Meta';
+export { default as Skills } from './Skills/Skills';
+export { default as Work } from './Work/Work';
